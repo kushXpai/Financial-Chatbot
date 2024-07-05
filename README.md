@@ -52,10 +52,6 @@ python main.py terminal
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Built as part of the BCDX-GenAI project for financial data analysis.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
